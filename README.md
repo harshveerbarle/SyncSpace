@@ -50,10 +50,6 @@
 
 ### 1. Start Both Servers
 From the root directory:
-```powershell
-cd C:\Users\user\.gemini\antigravity-ide\scratch\syncspace
-npm run dev
-```
 
 - **Frontend App**: [http://localhost:5173](http://localhost:5173)
 - **Backend API & WebSockets**: [http://localhost:3001](http://localhost:3001)
