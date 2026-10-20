@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": "usr_1791902741666_g1ct6m",
+      "name": "Alex Johnson",
+      "username": "alex",
+      "email": "alex@example.com",
+      "passwordHash": "$2b$10$w7F6F9IwxHbgZI5OZyEizuAwQP3elaXQqUXg8ZWi0vM/CBfj1HXmm",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Alex%20Johnson&backgroundColor=ec4899",
+      "color": "#ec4899",
+      "status": "online",
+      "bio": "Hey there! I am using SyncSpace.",
+      "createdAt": "2026-10-13T14:45:41.670Z"
+    },
+    {
+      "id": "usr_1791903261384_067qug",
+      "name": "Harsh",
+      "username": "harsh123",
+      "email": "harsh@gmail.com",
+      "passwordHash": "$2b$10$d9QhX0ckvRddfPHtS1jkhepts2MakY/8n4dKbkxXA6WcojybJo/ES",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Harsh%20&backgroundColor=f59e0b",
+      "color": "#f59e0b",
+      "status": "online",
+      "bio": "Hey there! I am using SyncSpace.",
+      "createdAt": "2026-10-13T14:54:21.391Z"
+    },
+    {
+      "id": "usr_1791903369183_xtqble",
+      "name": "veer",
+      "username": "veer123",
+      "email": "veer@gmail.com",
+      "passwordHash": "$2b$10$BAXWH26BSiME4HkFOFNqdOfFlTTd6aN4mQdNFBANVWOUI.vgbpnT.",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=veer%20&backgroundColor=06b6d4",
+      "color": "#3b82f6",
+      "status": "online",
+      "bio": "Hey there! I am using SyncSpace.",
+      "createdAt": "2026-10-13T14:56:09.188Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat_1791903399154_7o255y",
+      "type": "direct",
+      "members": [
+        "usr_1791903261384_067qug",
+        "usr_1791903369183_xtqble"
+      ],
+      "createdAt": "2026-10-13T14:56:39.154Z",
+      "updatedAt": "2026-10-13T14:58:09.084Z",
+      "lastMessage": {
+        "text": "🚀 🚀 🚀",
+        "senderId": "usr_1791903369183_xtqble",
+        "createdAt": "2026-10-13T14:58:09.084Z"
+      }
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1791903412896_e4atbn",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903261384_067qug",
+      "senderName": "Harsh",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Harsh%20&backgroundColor=f59e0b",
+      "content": "hello jee",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:56:52.896Z"
+    },
+    {
+      "id": "msg_1791903457612_xmrmd0",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903369183_xtqble",
+      "senderName": "veer",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=veer%20&backgroundColor=06b6d4",
+      "content": "love",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:57:37.612Z"
+    },
+    {
+      "id": "msg_1791903465803_y4fbx4",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903261384_067qug",
+      "senderName": "Harsh",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Harsh%20&backgroundColor=f59e0b",
+      "content": "kya hua",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:57:45.803Z"
+    },
+    {
+      "id": "msg_1791903470500_be18ti",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903369183_xtqble",
+      "senderName": "veer",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=veer%20&backgroundColor=06b6d4",
+      "content": "s sd",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:57:50.500Z"
+    },
+    {
+      "id": "msg_1791903476543_42h7uz",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903261384_067qug",
+      "senderName": "Harsh",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Harsh%20&backgroundColor=f59e0b",
+      "content": "gxfh",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:57:56.543Z"
+    },
+    {
+      "id": "msg_1791903486265_r6g9qo",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903261384_067qug",
+      "senderName": "Harsh",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=Harsh%20&backgroundColor=f59e0b",
+      "content": "🚀 🚀 🚀 🚀 🚀",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:58:06.265Z"
+    },
+    {
+      "id": "msg_1791903489084_n06fo5",
+      "chatId": "chat_1791903399154_7o255y",
+      "senderId": "usr_1791903369183_xtqble",
+      "senderName": "veer",
+      "senderAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=veer%20&backgroundColor=06b6d4",
+      "content": "🚀 🚀 🚀",
+      "attachment": null,
+      "reactions": {},
+      "createdAt": "2026-10-13T14:58:09.084Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_1791903531431_jvay61",
+      "title": "cng vb",
+      "type": "excel",
+      "ownerId": "usr_1791903261384_067qug",
+      "ownerName": "Harsh",
+      "members": [
+        "usr_1791903261384_067qug"
+      ],
+      "data": {
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "data": [
+              [
+                "Product / Task",
+                "Owner",
+                "Q1 Target",
+                "Q1 Actual",
+                "Status"
+              ],
+              [
+                "SyncSpace Web",
+                "Harsh",
+                "1000",
+                "1250",
+                "Completed"
+              ],
+              [
+                "Mobile App",
+                "Team",
+                "500",
+                "480",
+                "In Progress"
+              ],
+              [
+                "Video Meets Engine",
+                "Harsh",
+                "200",
+                "200",
+                "Completed"
+              ]
+            ]
+          }
+        ]
+      },
+      "isPublic": true,
+      "createdAt": "2026-10-13T14:58:51.431Z",
+      "updatedAt": "2026-10-13T14:58:51.431Z"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "syncspace",
+  "version": "1.0.0",
+  "description": "SyncSpace - All-in-one Real-time Team Collaboration, Chat, Video Meets & Shared Workspace",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node --watch server/index.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "node server/index.js"
+  },
+  "keywords": [
+    "collaboration",
+    "chat",
+    "video-call",
+    "webrtc",
+    "realtime",
+    "multiplayer-canvas"
+  ],
+  "author": "SyncSpace Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}
